@@ -39,9 +39,15 @@ def count_available_adopted():
     print(f"Available: {available}")
     print(f"Adopted: {adopted}")
 
-def find_pet(pet_list):
+def find_pet():
     # ask for a name, search the list, print result or "not found"
-    pass
+    find = input("Enter pet to find: ")
+    for pet in pets:
+        if find == {pet["name"]}:
+            print(f"Name: {pet["name"]}\n Type: {pet["a_type"]}\n Status: {pet["status"]}")
+        else:
+            print("Pet not found.")
+    
 
 def remove_pet(pet_list):
     # your code here
