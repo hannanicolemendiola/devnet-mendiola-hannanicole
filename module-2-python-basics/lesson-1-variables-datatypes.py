@@ -1,26 +1,26 @@
 """
 Module 2 — Lesson 1: Variables & Data Types
-Student: [your name]
-Date: [date]
+Student: Mendiola, Hanna Nicole L.
+Date: September 27, 2026
 
 ============================================
-WHAT IS THIS TOPIC? (explain it like you're
-teaching a friend who's never coded before)
+WHAT IS THIS TOPIC? 
 ============================================
-[write your own explanation here]
-
+This topic talks about how we store data in
+the program and how we classify them.
+Variables are like containers that store
+them. And these data have different types,
+which serve different purposes.
 
 ============================================
 KEY VOCABULARY
 ============================================
-- variable:
-- data type:
-- int:
-- float:
-- string:
-- boolean:
-(add more as needed)
-
+- variable: a container that stores data
+- data type: how data in a variable is classified
+- int: a whole number
+- float: a number with decimals
+- string: characters, words, phrases or paragraphs read as text
+- boolean: true or false
 
 ============================================
 MY OWN EXAMPLE(S)
